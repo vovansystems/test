@@ -1,1 +1,1 @@
-<?php echo 'version 2'; ?>
+<?php echo 'version 3'; ?>
